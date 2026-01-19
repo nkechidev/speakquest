@@ -89,7 +89,7 @@ You need a tunneling service like **ngrok** to create a secure public URL that f
 3.**Update the App Configuration**: Use this new `ngrok` URL in your app's code.
 `const val LIBRETRANSLATIONS_URL = "https://<random-string>.ngrok.io/" `
 
-🔁 **Restarting the Setup**
+****Restarting the Setup****
 If you restart your computer, you'll need to restart the services:
 1.Start **Docker Desktop**.
 2.Restart the LibreTranslate container:
