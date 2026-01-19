@@ -50,7 +50,7 @@ android {
             versionNameSuffix = "-dev"
             buildConfigField("String", "BASE_URL", "\"https://dev.example.com/\"")
 
-            val libreTranslateUrl = localProperties.getProperty("LIBRETRANSLATE_URL", "http://10.0.2.2:5000/")
+            val libreTranslateUrl = localProperties.getProperty("LIBRETRANSLATE_URL", "https://truculently-unpulsating-rena.ngrok-free.dev")
             val libreTranslateApiKey = localProperties.getProperty("LIBRETRANSLATE_API_KEY", "")
             buildConfigField("String", "LIBRETRANSLATE_URL", "\"$libreTranslateUrl\"")
             buildConfigField("String", "LIBRETRANSLATE_API_KEY", "\"$libreTranslateApiKey\"")
