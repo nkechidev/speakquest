@@ -11,6 +11,10 @@ SpeakQuest is a modern Android application designed to help users learn and prac
   <img src="screenshots/speakquest-demo.gif" width="800" alt="SpeakQuest App Demo">
 </p>
 
+# YouTube Channel
+
+https://youtube.com/shorts/9to9Fth9yak?feature=share
+
 ## ✨ Features
 
 *   **Instant Translation:** Translates English text to Spanish in real-time as you type.
